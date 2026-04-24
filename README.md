@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Oi, mundo 👋</h1>
-    <p>Esse é meu primeiro arquivo HTML.</p>
+    <p>Esse é meu primeiro arquivo HTML no Git.</p>
 </body>
 </html>
